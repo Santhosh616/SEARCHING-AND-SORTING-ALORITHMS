@@ -1,2 +1,2 @@
-# Searching
-Implementation of Binary and Linear search in ava
+
+Implementation of Searching and Sorting
